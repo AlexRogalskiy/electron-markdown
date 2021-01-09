@@ -1,0 +1,9 @@
+# Ignore everything except icons, pandoc and the less files
+/*
+
+!icons
+!less
+!screenshots
+!templates
+!vue
+!.gitignore
